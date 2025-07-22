@@ -6,7 +6,7 @@ export const Bio = {
   description:
     "I am a driven and adaptable IT student and graduate-level learner with a strong interest in web development, cybersecurity, and systems analysis. With hands-on experience in both front-end and back-end technologies, I bring a growth mindset, a commitment to continuous learning, and a passion for solving real-world problems. I aim to contribute meaningfully to technical teams while continuously building my expertise.",
   github: "https://github.com/joloja",
-  linkedin: "www.linkedin.com/in/joanna-loja-59590815a",
+  linkedin: "https://www.linkedin.com/in/joanna-loja-59590815a/",
   resume:
     "https://docs.google.com/document/d/1c5RYZipqBUPzBbkd1xxbE8uaC1vyNAJhGGxpWlu2WnY/edit?tab=t.0",
   instagram: "https://www.instagram.com/joanna.loja/",
